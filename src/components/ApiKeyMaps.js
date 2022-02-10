@@ -1,2 +1,0 @@
-const APIKEYMAPS = 'AIzaSyCbkV9FFXMySB7oOO1CfqoD-503Xw_YlhM';
-export {APIKEYMAPS}
