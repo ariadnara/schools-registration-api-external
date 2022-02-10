@@ -1,0 +1,36 @@
+.div-layout-tableschools{
+    height:  100vh; 
+    Overflow-y:scroll;
+    padding:20x 20px 5px 10px;
+  }
+  .div-map {
+    height: 100vh;
+     width: 45% ;
+     float: right;
+     padding:5px 5px 5px 0px;
+  } 
+  .div-main{
+    height: 100vh;
+    width: 55%;
+    float:left;
+    padding:20x 20px 5px 10px;
+  }
+  .gm-style-iw {
+    background-color: rgba(252, 249, 249, 0.897);
+    border: 2px solid rgba(157, 161, 160, 0.6);
+    border-radius: 4px;
+    box-shadow: 0 1px 6px rgba(178, 178, 178, 0.6);
+    color: rgb(47, 56, 52) !important;
+    font-family: Calibri,'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: smaller;
+    text-align: left;
+    top: 15px !important;
+    width: 300 !important;
+    padding: 15px;
+    position: relative;
+    z-index: 200px;
+}
+.input-search {
+  width: 50%;
+  margin:7px 0px 0px 0px;
+}
